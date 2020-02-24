@@ -1,4 +1,4 @@
-[
+{
 	"SHOW_DELETED_MESSAGES": {
 		"description": "Keeps deleted messages visible in the chat for the current session (Does not save them to disk)",
 		"versions": [
@@ -24,4 +24,4 @@
 			}
 		]
 	}
-]
+}
